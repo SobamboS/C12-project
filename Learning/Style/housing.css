@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.card{
+    background-color: gray;
+    border-radius: 8px;
+}   
+#total{
+    background-color: #142A3C ;
+}
+#sale{
+    background-color: #215475;
+}
+#rental{
+    background-color: orangered;
+}
+.card{
+    color: white;
+    width: 250px;
+    padding: 20px 20px;
+}

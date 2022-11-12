@@ -1,0 +1,11 @@
+.wrapper{
+    border-radius: 5%;
+    box-sizing: border-box;
+   
+}
+.widget button{
+    background-color: rgb(46, 46, 179);
+    border-radius: 5%;
+    width: 15%;
+    height: 50%;
+}

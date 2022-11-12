@@ -1,0 +1,247 @@
+body{
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100vw;
+    padding-bottom: 50px;
+}
+
+.top-section{
+    background-image: url("../Asset/Vacation.jpeg");
+    background-size: 100%;
+    padding-bottom: 50px;
+    
+}
+
+
+.logo{
+    font-family: 'Kaushan script';
+    font-size: 30px;
+    color: white;
+    margin-top: -5px;
+}
+.nav-content{
+   display: flex;
+   justify-content: space-between;
+   margin: auto;  
+   width: 90%;
+   padding-top:30px;
+}
+
+.nav-btn{
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 15px;
+    background-color: transparent;
+    color: white;
+    font-size: 12px;
+    font-family: 'Poppins';
+}
+
+.navbars{
+    display: flex;
+    color: white;
+    font-size: 12px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    column-gap: 30px;
+    list-style: none;
+    font-weight: 500;
+
+}
+
+.main-subtext{
+    color: white;
+    font-weight: 500;
+    width: 30;
+    font-size: 12px;
+    
+}
+
+.main-btn{
+    padding: 15px;
+    border: none;
+    border-radius: 30px;
+    background-color: orange;
+    color: white;
+    font-family: 'Poppins';
+    font-size: 12px;
+}
+.srch-btn{
+    padding: 10px;
+    width: 110px;
+    border:  none;
+    border-radius: 30px;
+    background-color: orange;
+    color: white;
+    font-family:'Poppins';
+    font-size: 12px;
+}
+
+.hero{
+    width: 90%;
+    margin: auto;
+}
+
+.beaches{
+    color: white;
+    font-size: 10px;
+    font-family: 'Kaushan Script';
+}
+
+.main-header{
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 600;
+    width: 60%;
+}
+.sec2-bg{
+    padding: 3px;
+    padding-left: 30px;
+    height: 5px;
+    background-color: rgba(255, 255, 255, 1);
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-top: 10px;
+    height: 90px;
+    width: 80%;
+    border-radius: 30px;
+}
+.sec2-bg2{
+    padding: 3px;
+    padding-left: 30px;
+    height: 5px;
+    background-color: rgba(255, 255, 255, .5);
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-top: 10px;
+    height: 90px;
+    width: 80%;
+    border-radius: 30px;
+
+}
+.sec2-sub{
+    display: flex;
+    column-gap: 20%;    
+    font-size: 12px;
+    font-family: 'Poppins';
+    padding-top: 2px;
+    padding-left: 25px;
+}
+.secMe{
+    background-color: rgb(197, 197, 197);
+    height: 132px;
+    width: 100%;
+    border-radius: 30px;
+    padding-top: 13px;
+    margin-top: 10%;
+}
+.sec3-btn{
+    background-color: orange;
+    color: white;
+    padding: 12px;
+    height: 50px;
+    width: 15%;
+    border-radius: 20px;
+    margin-top: 18px;
+    font-family:'Kaushan Script';
+    border: none;
+}
+.secHeader{
+    font-family: 'Kaushan Script';
+    text-align: center;
+    margin-top: 50px;
+   
+}
+.best{
+    color: orange;
+}
+.dest{
+    color: rgb(24, 24, 24);
+}
+.sec-sunHeader-context{
+    display: flex;
+    justify-content: center;
+}
+
+.sec-sunHeader{
+    width: 50%;
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Poppins';
+}
+.card1{
+    height: 250px;
+    width:20%;
+    background-color: white;
+    border-radius: 20%;
+    border: none;
+    box-shadow: 2px 2px rgb(209, 209, 209);
+}
+.card-content{
+    display: flex;
+    justify-content: center;
+    column-gap: 5%;
+    margin-top: 40px;
+}
+.card-text{
+    font-size: 12px;
+}
+.let{
+    white-space: nowrap;
+}
+.quick{
+    width: 30%;
+    font: inherit;
+    text-align: start;
+
+}
+.third-section{
+    display: flex;
+    /* padding-left: 100px; */
+    margin: auto;
+    column-gap: 4px;
+}
+
+.third-section-img{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+    height: 20px;
+}
+
+
+.third-section1{
+    display: flex;
+    /* padding-left: 100px; */
+    margin: auto;
+    column-gap: 4px;
+}
+
+.third-section-img1{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    height: 20px;
+}
+
+.third-section2{
+    display: flex;
+    /* padding-left: 100px; */
+    margin: auto;
+    column-gap: 4px;
+}
+
+
+.third-section-img2{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: navy;
+    color: white;
+    height: 20px;
+}

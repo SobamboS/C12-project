@@ -1,0 +1,63 @@
+.widget{
+    background-color: yellow;
+    width: 20%;
+    height: auto;
+    padding-left: 3rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border-radius: 5%;
+    border-color: green ;
+    border: solid;
+        }
+
+.widget img{
+    width: 15%;
+    margin-right: 2rem;
+}
+.widget p img{
+    width: 1rem;
+}
+.widget a img{
+    height: 1.80%;
+    width: 1rem;
+}
+
+
+
+
+.widget2{
+    background-color: blue;
+    border-radius: 5%;
+    width: 20%;
+    height: auto;
+    padding-left: 3rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border-color: green ;
+    border: solid;
+}
+.widget2 img{
+    width: 15%;
+    margin-right: 2rem;
+}
+.widget2 p img{
+    width: 1rem;
+}
+.widget2 a img{
+    height: 1.80%;
+    width: 1rem;
+}
+.widget2 button{
+    border: solid;
+}
+
+
+.wrapper:hover{
+    border-color: blue;
+    margin-left: 5rem;
+    display: flex; 
+    gap: 1rem;
+}
+
+
+

@@ -1,0 +1,22 @@
+.card h1{
+    color: orangered;
+    font-weight: 900;
+}
+.card address{
+    color: orangered;
+}
+.card p{
+    font-weight: 900;
+}
+.card a{
+    font-weight: 900;
+}
+.card a:hover{
+    color: aqua;
+}
+.card a:active{
+    color: red;
+}
+.card{
+    text-align: center;
+}

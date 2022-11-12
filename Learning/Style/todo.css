@@ -1,0 +1,38 @@
+.todo {
+    background-color:rgb(212, 231, 179);
+    width: 20%;
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    border-left: 8px #03423b;
+    padding-top: 16px;
+    padding-bottom:16px ;
+    padding-left:32px ;
+    padding-right: 32px;
+}
+.todo1 {
+    background-color: rgb(106, 141, 216);
+    width: 20%;
+    gap: 24px;
+    display: flex;
+    align-items: center;
+    border-left: 8px #020a36;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+
+
+}
+.todo2{
+    background-color: rgb(226, 107, 226);
+    width: 20%;
+    gap: 24px;
+    display: flex;
+    align-items: center;
+    border-left: 8px #1d0233;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right:32px ;
+}
